@@ -10,7 +10,7 @@
   
 	<div class="container-fluid">
       <div class="row">
-	    <h2>Pedidos Pendientes</h2>
+	    <h2>Pedidos Completados</h2>
 	    <hr/>
 	    <br/>
 		<div class="col-md-12">
@@ -20,7 +20,7 @@
 						<div class="thumbnail">
 							<div class="caption">
 								<h3>
-									Nombre y correo de usuario [Pendiente]
+									Nombre y correo de usuario [Completados]
 								</h3>
 								<p>
 									Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
