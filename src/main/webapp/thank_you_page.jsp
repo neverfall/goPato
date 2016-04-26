@@ -9,19 +9,27 @@
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   </head>
-<body>
-	<div class="container-fluid">
+  <body>
+    <div class="container-fluid">
 		<div class="row">
 			<div class="col-md-3">
 			</div>
 			<div class="col-md-6">
-				<h1 class="text-center">
-					Bienvenido a GoPato
-				</h1> <a href="form.jsp" class="btn btn-primary btn-block btn-lg" type="button">Realizar Pedido</a>
+				<h3 class="text-center text-info">
+					Gracias por tu preferencia
+				</h3>
+				<blockquote>
+					<p>
+					En aproximadamente 5 minutos enviaremos una cotizacion a su correo para poder confirmar el pedido.
+					</p> <small><cite>El equipo de programadores</cite></small>
+				</blockquote> 
+				<a class="btn btn-success btn-default btn-block" href="form.jsp">
+					Realizar otra cotizacion
+				</a>
 			</div>
 			<div class="col-md-3">
 			</div>
 		</div>
 	</div>
-</body>
+  </body>
 </html>
